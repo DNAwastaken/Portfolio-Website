@@ -1,5 +1,7 @@
-<footer class="flex items-center justify-center bg-cyan-200 h-10">
-	<div class="mr-5">
+<footer
+	class="flex flex-col sm:flex-row text-center sm:text-left items-center justify-center bg-cyan-200 h-fit"
+>
+	<div class="sm:mr-5">
 		This website was made by{' '}
 		<a
 			href="https://github.com/dnawastaken"
