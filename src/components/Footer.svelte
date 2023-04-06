@@ -1,5 +1,5 @@
 <footer
-	class="flex flex-col sm:flex-row text-center sm:text-left items-center justify-center bg-cyan-200 h-fit"
+	class="flex flex-col sm:flex-row text-center sm:text-left items-center justify-center bg-cyan-200 h-fit p-3"
 >
 	<div class="sm:mr-5">
 		This website was made by{' '}
